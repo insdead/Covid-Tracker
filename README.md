@@ -1,6 +1,9 @@
 # Covid-Tracker
 > Treack each second the information about Covid-19 cases/deaths/recovered:
 
+## General info
+> Real time information about Covid-19
+
 ## Install it
 `pip install BeautifulSoup`<br/>
 `pip install requests`<br/>
